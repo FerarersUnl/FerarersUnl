@@ -7,11 +7,13 @@
 🟩 - Game enjoyer, MOBA, FPS, and coder enthusiast! \
 🟨 - Used to watch a lot of anime but I can't anymore because I don't have enought time :( \
 🟧 - This Git account will be used to publish my personal codes and achievements, I'm excited of how it's going to develop! \
+
 ![This is an image](https://i.ibb.co/wrcMKzp/cms-files-10224-1671210503-Prancheta-3.png)
+
 
 -----------------------------------------------------------------------------------------------------------------------------
 ### 🟥 - Social links 
-🟦 - Twitter: @MoodzUnl, Instagram: @FerarersUnl, Facebook: @FerarersUnl \
+🟦 - Twitter: @MoodzUnl, Instagram: @FerarersUnl, Facebook: @FerarersUnl LinkedIn: https://www.linkedin.com/in/oscar-sarabia-engineer/\
 🟪 - Thanks for reading!!\
 ✨ - Feel free to message me anytime, I might not respond super quick, but I promise I'll respond! 
 
