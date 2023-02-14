@@ -10,12 +10,14 @@
 🟧 - This Git account will be used to publish my personal codes and achievements, I'm excited of how it's going to develop! \
  
 -----------------------------------------------------------------------------------------------------------------------------
-<img align="center" src="https://i.ibb.co/wrcMKzp/cms-files-10224-1671210503-Prancheta-3.png" alt="MoodzUnl"/>
 ### 🟥 - Social links 
 🟦 - [Twitter](https://twitter.com/moodzunl), [Instagram](https://www.instagram.com/ferarersunl/), [LinkedIn](https://www.linkedin.com/in/oscar-sarabia-engineer/) \
 🟪 - Thanks for reading!!\
 ✨ - Feel free to message me anytime, I might not respond super quick, but I promise I'll respond! 
 
+<p align="center">
+  <img width="460" height="460" src="center" src="https://i.ibb.co/wrcMKzp/cms-files-10224-1671210503-Prancheta-3.png">
+</p>
 <!---
 FerarersUnl/FerarersUnl is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 You can click the Preview link to take a look at your changes.
