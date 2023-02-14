@@ -13,7 +13,7 @@
 
 -----------------------------------------------------------------------------------------------------------------------------
 ### 🟥 - Social links 
-🟦 - Twitter: @MoodzUnl, Instagram: @FerarersUnl, Facebook: @FerarersUnl LinkedIn: https://www.linkedin.com/in/oscar-sarabia-engineer/\
+🟦 - Twitter: @MoodzUnl, Instagram: @FerarersUnl, Facebook: @FerarersUnl LinkedIn: https://www.linkedin.com/in/oscar-sarabia-engineer/ \
 🟪 - Thanks for reading!!\
 ✨ - Feel free to message me anytime, I might not respond super quick, but I promise I'll respond! 
 
