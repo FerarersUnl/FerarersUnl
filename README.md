@@ -16,7 +16,7 @@
 ✨ - Feel free to message me anytime, I might not respond super quick, but I promise I'll respond! 
 
 <p align="center">
-  <img width="460" height="460" src="center" src="https://i.ibb.co/wrcMKzp/cms-files-10224-1671210503-Prancheta-3.png">
+  <img width="460" height="460" src="https://i.ibb.co/wrcMKzp/cms-files-10224-1671210503-Prancheta-3.png">
 </p>
 <!---
 FerarersUnl/FerarersUnl is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
