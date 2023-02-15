@@ -4,11 +4,11 @@
 
 
 ## 🟥 About me 
-🟦 - Streamer and CS Student, specifically Computer Engineering in UdG \
-🟪 - Hopefully I will be a software engineer in a near future!! \
-🟩 - Game enjoyer, MOBA, FPS, and coder enthusiast! \
+🟦 - Streamer and CS Student Computer Engineering in CUCEI \
+🟪 - Software engineer, Java, JavaScript, Python, C++ \
+🟩 - Videogame enjoyer, MOBA, FPS, and coder enthusiast! I also like sports \
 🟨 - Used to watch a lot of anime but I can't anymore because I don't have enought time :( \
-🟧 - This Git account will be used to publish my personal codes and achievements, I'm excited of how it's going to develop! 
+🟧 - Feel free to clone my repos, add suggestions to implement them later :) 
  
 
 ## 🟥 - Social links 
