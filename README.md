@@ -2,7 +2,6 @@
 
 -----------------------------------------------------------------------------------------------------------------------------
 # ✨ - Hi, I’m @FerarersUnl or aka @MoodzUnl 
-
 ## 🟥 About me 
 🟦 - Streamer and CS Student, specifically Computer Engineering in UdG \
 🟪 - Hopefully I will be a software engineer in a near future!! \
