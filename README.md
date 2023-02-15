@@ -11,7 +11,7 @@
 🟧 - This Git account will be used to publish my personal codes and achievements, I'm excited of how it's going to develop! 
  
 -----------------------------------------------------------------------------------------------------------------------------
-### 🟥 - Social links 
+## 🟥 - Social links 
 🟦 - [Twitter](https://twitter.com/moodzunl), [Instagram](https://www.instagram.com/ferarersunl/), [LinkedIn](https://www.linkedin.com/in/oscar-sarabia-engineer/) \
 🟪 - Thanks for reading!!\
 ✨ - Feel free to message me anytime, I might not respond super quick, but I promise I'll respond! 
