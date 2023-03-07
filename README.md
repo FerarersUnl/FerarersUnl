@@ -9,12 +9,9 @@
 🟩 - Videogame enjoyer, MOBA, FPS, and coder enthusiast! I also like sports \
 🟨 - Used to watch a lot of anime but I can't anymore because I don't have enought time :( \
 🟧 - Feel free to clone my repos, add suggestions to implement them later :) 
- 
-[![Top Langs]()](https://github.com/anuraghazra/github-readme-stats)
 
-<a href="https://github.com/anuraghazra/github-readme-stats">
-  <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=anuraghazra&repo=github-readme-stats" />
-</a>
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=FerarersUnl&layout=compact)](https://github.com/anuraghazra/github-readme-stats)
+
 
 ## 🟥 - Social links 
 🟦 - [Twitter](https://twitter.com/moodzunl), [Instagram](https://www.instagram.com/ferarersunl/), [LinkedIn](https://www.linkedin.com/in/oscar-sarabia-engineer/), [StackOverflow](https://stackoverflow.com/users/19069915/ferarersunl) \
