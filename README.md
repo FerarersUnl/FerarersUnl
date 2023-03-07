@@ -18,7 +18,6 @@
 
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=FerarersUnl)](https://github.com/anuraghazra/github-readme-stats)
 
-
 <p align="center">
   <img width="250" height="250" src="https://i.ibb.co/wrcMKzp/cms-files-10224-1671210503-Prancheta-3.png">
 </p>
