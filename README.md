@@ -10,13 +10,12 @@
 🟨 - Used to watch a lot of anime but I can't anymore because I don't have enought time :( \
 🟧 - Feel free to clone my repos, add suggestions to implement them later :) 
  
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=FerarersUnl&layout=compact)](https://github.com/anuraghazra/github-readme-stats)
 
 ## 🟥 - Social links 
 🟦 - [Twitter](https://twitter.com/moodzunl), [Instagram](https://www.instagram.com/ferarersunl/), [LinkedIn](https://www.linkedin.com/in/oscar-sarabia-engineer/), [StackOverflow](https://stackoverflow.com/users/19069915/ferarersunl) \
 🟪 - Thanks for reading!!\
 ✨ - Feel free to message me anytime, I might not respond super quick, but I promise I'll respond! 
-
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=FerarersUnl&layout=compact)](https://github.com/anuraghazra/github-readme-stats)
 
 <p align="center">
   <img width="250" height="250" src="https://i.ibb.co/wrcMKzp/cms-files-10224-1671210503-Prancheta-3.png">
