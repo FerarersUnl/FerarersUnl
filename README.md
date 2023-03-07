@@ -13,8 +13,9 @@
 [![Top Langs]()](https://github.com/anuraghazra/github-readme-stats)
 
 <a href="https://github.com/anuraghazra/github-readme-stats">
-  <img align="center" src="[https://github-readme-stats.vercel.app/api/pin/?username=anuraghazra&repo=github-readme-stats](https://github-readme-stats.vercel.app/api/top-langs/?username=FerarersUnl&layout=compact)" />
+  <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=anuraghazra&repo=github-readme-stats" />
 </a>
+
 ## 🟥 - Social links 
 🟦 - [Twitter](https://twitter.com/moodzunl), [Instagram](https://www.instagram.com/ferarersunl/), [LinkedIn](https://www.linkedin.com/in/oscar-sarabia-engineer/), [StackOverflow](https://stackoverflow.com/users/19069915/ferarersunl) \
 🟪 - Thanks for reading!!\
