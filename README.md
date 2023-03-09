@@ -20,7 +20,7 @@
 
 <p align="center">
   <img width="250" height="250" src="https://i.ibb.co/wrcMKzp/cms-files-10224-1671210503-Prancheta-3.png">
-  <img width="250" height="250" src="https://d335luupugsy2.cloudfront.net/cms%2Ffiles%2F10224%2F1671211831Prancheta_8.png?utm_campaign=alura_latam_-_challenge_email_projeto_5_esp&utm_medium=email&utm_source=RD+Station"
+  <img width="250" height="250" src="https://d335luupugsy2.cloudfront.net/cms%2Ffiles%2F10224%2F1671211831Prancheta_8.png"
 </p>
 <!---
 FerarersUnl/FerarersUnl is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
